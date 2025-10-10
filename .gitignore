@@ -43,3 +43,4 @@ content/
 .jekyll-metadata
 .checkstyle
 .fbExcludeFilterFile
+.vscode
