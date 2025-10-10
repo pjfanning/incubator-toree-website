@@ -27,6 +27,8 @@ limitations under the License.
 
 {% include JB/setup %}
 
+# Using Toree with Jupyter Notebooks
+
 - Create a notebook with Toree
 - Intro to magics
 - Intro to kernel API

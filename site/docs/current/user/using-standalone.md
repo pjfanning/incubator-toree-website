@@ -27,6 +27,8 @@ limitations under the License.
 
 {% include JB/setup %}
 
+# Using Toree standalone
+
 - Connecting to Toree with custom clients
     - Kernel gateway/Jupyter-js-service
     - Python libraries to ZeroMQ

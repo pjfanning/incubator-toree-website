@@ -30,5 +30,6 @@ limitations under the License.
 # Extending to {{ site.data.project.name }}
 
 - What is pluggable
+
 - Creating a magic
 
